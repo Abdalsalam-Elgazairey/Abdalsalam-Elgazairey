@@ -1,7 +1,33 @@
 ## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slow Motion Text</title>
+    <style>
+        @keyframes slowFade {
+            0% { opacity: 0; transform: translateY(20px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 {
+            text-align: center;
+            animation: slowFade 3s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hi 👋, I'm Abdalsalam Eljazairly</h1>
+</body>
+</html>
+
 <h1 align="center">Hi 👋, I'm abdalsalam eljazairly</h1>
 <h3 align="center">Front-end developer from Egypt</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalsalam&label=Profile%20views&color=0e75b6&style=flat" alt="abdalsalam" /> </p>
 
