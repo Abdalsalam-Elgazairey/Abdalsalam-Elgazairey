@@ -1,29 +1,12 @@
 ## Hi there 👋
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Slow Motion Text</title>
-    <style>
-        @keyframes slowFade {
-            0% { opacity: 0; transform: translateY(20px); }
-            100% { opacity: 1; transform: translateY(0); }
-        }
 
-        h1 {
-            text-align: center;
-            animation: slowFade 3s ease-in-out;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hi 👋, I'm Abdalsalam Eljazairly</h1>
-</body>
-</html>
-
-<h1 align="center">Hi 👋, I'm abdalsalam eljazairly</h1>
+<h1 align="conter">
+    Welcome to my profile.👋
+    <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdalsalam+Eljazairly;Frontend+Developer" alt="Typing SVG" />
+</div>
 <h3 align="center">Front-end developer from Egypt</h3>
+    
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
