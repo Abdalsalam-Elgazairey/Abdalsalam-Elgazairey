@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdalsalam+Eljazairly;Frontend+Developer" alt="Typing SVG" />
 </div>
 
-
-
-
 ###
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"  />
