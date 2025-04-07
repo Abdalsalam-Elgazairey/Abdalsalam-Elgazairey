@@ -1,19 +1,14 @@
 ## Hi there 👋
-
-<h2 align="center">hey there 👋</h2>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdalsalam+Eljazairly;Frontend+Developer" alt="Typing SVG" />
 </div>
 
+
+
+
 ###
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdalsalam-Elgazairey.Abdalsalam-Elgazairey&"  />
-</div>
 
 ###
 
@@ -37,7 +32,17 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdalsalam-Elgazairey.Abdalsalam-Elgazairey&"  />
+</div>
+
+###
+
 <h5 align="left">(Name: Abdalsalam Field of Study: Geomatics Engineering Interests: Web development, website design, and 3D modeling Skills: Website design and development using HTML, CSS, and JavaScript Working on 3D modeling projects and digital visualization Using geospatial tools and digital mapping for data analysis Creative thinking and technical problem-solving Career Objective: I aim to develop my skills in web and application design while integrating my expertise in geomatics engineering and digital mapping to create innovative solutions.</h5>
+
+###
+
+<h4 align="left">I am from Egypt</h4>
 
 ###
 
@@ -65,9 +70,7 @@
 
 ###
 
-<h4 align="left">I am from Egypt</h4>
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Abdalsalam-Elgazairey/Abdalsalam-Elgazairey/output/snake.svg" alt="Snake animation" />
 
@@ -81,13 +84,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abdalsalam-Elgazairey/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdalsalam-Elgazairey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalsalam-Elgazairey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
